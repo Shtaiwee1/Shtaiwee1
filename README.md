@@ -1,5 +1,11 @@
 # Hi there, I'm Mohammad Omair - aka [Shtaiwee] 👋 
 
+<br>
+
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
+    alt="adam-pw" /> 
+  </p>
+
 
 
 ## I'm an Engineer, Full-Stack Developer in process!!
@@ -10,6 +16,27 @@
 - 🥅 2022 Goals: Learn more about MERN frameworks
 - ⚡ Fun fact: I love to sing and play the guitar
 - 💻 I'm currently enrolled in a coding dojo bootcamp
+
+<br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohammad-omair-665076142/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="adam pithewan" height="30" width="40" /></a> 
+  <a href="https://fb.com/mohammed.imair" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="adam pithen wala" height="30" width="40" /></a> 
+  <a href="https://instagram.com/mohammad_shtaiwee" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="_._.adam._" height="30" width="40" /></a> 
+  <a href="https://www.hackerrank.com/shtaiweeomair" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+      alt="adampithewan" height="30" width="40" /></a> 
+  
+</p>
+
+<br>
 
 
 
@@ -31,8 +58,11 @@
 <br />
 <br />
 
-
-
+<h3>Statistical Data :-</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Shtaiwee1&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="adam-pw" 
+    bg_color=#808080/></p>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
