@@ -76,7 +76,7 @@
     
     
     <p dir="auto">
-    <a target="_blank" rel="noopener noreferrer" href="/Shtaiwee1/Shtaiwee1/blob/main/profile-3d-contrib/profile-night-green.svg"><img src="/Shtaiwee1/Shtaiwee1/raw/main/profile-3d-contrib/profile-night-green.svg" alt="" style="max-width: 100%;"></a></p>
+    <a target="_blank" rel="noopener noreferrer" href="/Shtaiwee1/Shtaiwee1/blob/master/profile-3d-contrib/profile-night-green.svg"><img src="/Shtaiwee1/Shtaiwee1/raw/master/profile-3d-contrib/profile-night-green.svg" alt="" style="max-width: 100%;"></a></p>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
