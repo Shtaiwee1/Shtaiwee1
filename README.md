@@ -74,7 +74,9 @@
     alt="adam-pw" 
     bg_color=#808080/></p>
     
-    https://github.com/Shtaiwee1/Shtaiwee1/blob/master/profile-3d-contrib/profile-night-green.svg
+    
+    
+    <a target="_blank" rel="noopener noreferrer" href="/yoshi389111/yoshi389111/blob/main/profile-3d-contrib/profile-green-animate.svg"><img src="https://github.com/Shtaiwee1/Shtaiwee1/blob/master/profile-3d-contrib/profile-night-green.svg" alt="" style="max-width: 100%;"></a>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
