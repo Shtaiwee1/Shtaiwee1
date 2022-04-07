@@ -73,6 +73,8 @@
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Shtaiwee1&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="adam-pw" 
     bg_color=#808080/></p>
+    
+    profile-3d-contrib/profile-night-green.svg
 
 <details>
   <summary>:zap: GitHub Stats</summary>
