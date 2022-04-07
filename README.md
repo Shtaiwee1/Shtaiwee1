@@ -75,10 +75,6 @@
     bg_color=#808080/></p>
     
     
-    
-    <a target="_blank" rel="noopener noreferrer" href="https://github.com/Shtaiwee1/Shtaiwee1/blob/master/profile-3d-contrib/profile-night-green.svg"><img src="https://github.com/Shtaiwee1/Shtaiwee1/blob/master/profile-3d-contrib/profile-night-green.svg" alt="" style="max-width: 100%;"></a>
-    
-    ![Alt text](https://github.com/Shtaiwee1/Shtaiwee1/blob/master/profile-3d-contrib/profile-night-green.svg)
 <img src="https://github.com/Shtaiwee1/Shtaiwee1/blob/master/profile-3d-contrib/profile-night-green.svg">
 
 <details>
