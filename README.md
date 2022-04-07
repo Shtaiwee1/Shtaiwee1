@@ -77,11 +77,16 @@
     
     
     <a target="_blank" rel="noopener noreferrer" href="https://github.com/Shtaiwee1/Shtaiwee1/blob/master/profile-3d-contrib/profile-night-green.svg"><img src="https://github.com/Shtaiwee1/Shtaiwee1/blob/master/profile-3d-contrib/profile-night-green.svg" alt="" style="max-width: 100%;"></a>
+    
+    ![Alt text](https://github.com/Shtaiwee1/Shtaiwee1/blob/master/profile-3d-contrib/profile-night-green.svg)
+<img src="https://github.com/Shtaiwee1/Shtaiwee1/blob/master/profile-3d-contrib/profile-night-green.svg">
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Shtaiwee1's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Shtaiwee1&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+    
+    
 
 </details>
 
