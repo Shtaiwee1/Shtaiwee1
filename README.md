@@ -75,8 +75,8 @@
     bg_color=#808080/></p>
     
     
-    <p dir="auto">
-    <a target="_blank" rel="noopener noreferrer" href="https://github.com/Shtaiwee1/Shtaiwee1/blob/master/profile-3d-contrib/profile-night-green.svg"><img src="https://github.com/Shtaiwee1/Shtaiwee1/raw/master/profile-3d-contrib/profile-night-green.svg" alt="" style="max-width: 100%;"></a></p>
+    
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/Shtaiwee1/Shtaiwee1/blob/master/profile-3d-contrib/profile-night-green.svg"><img src="https://github.com/Shtaiwee1/Shtaiwee1/blob/master/profile-3d-contrib/profile-night-green.svg" alt="" style="max-width: 100%;"></a>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
