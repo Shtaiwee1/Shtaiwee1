@@ -68,14 +68,16 @@
 
 
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50" data-canonical-src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style="max-width: 80%;"></a>
+
+    
+<h3>Contributions :-</h3>  
+<img src="https://github.com/Shtaiwee1/Shtaiwee1/blob/master/profile-3d-contrib/profile-green-animate.svg">
+
 <h3>Statistical Data :-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Shtaiwee1&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="adam-pw" 
     bg_color=#808080/></p>
-    
-    
-<img src="https://github.com/Shtaiwee1/Shtaiwee1/blob/master/profile-3d-contrib/profile-green-animate.svg">
 
 <details>
   <summary>:zap: GitHub Stats</summary>
