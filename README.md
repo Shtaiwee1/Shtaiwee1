@@ -75,7 +75,7 @@
     bg_color=#808080/></p>
     
     
-<img src="https://github.com/Shtaiwee1/Shtaiwee1/blob/master/profile-3d-contrib/profile-night-green.svg">
+<img src="https://github.com/Shtaiwee1/Shtaiwee1/blob/master/profile-3d-contrib/profile-green-animate.svg">
 
 <details>
   <summary>:zap: GitHub Stats</summary>
