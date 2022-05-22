@@ -15,7 +15,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about MERN frameworks
 - ⚡ Fun fact: I love to sing and play the guitar
-- 💻 I'm currently enrolled in a coding dojo bootcamp
+- 💻 Finished an intensive coding dojo bootcamp
 
 
 <br>
