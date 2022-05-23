@@ -10,7 +10,7 @@
 
 ## I'm an Engineer, Full-Stack Developer in process!!
 
-- 🔭 Check out my favourite projects here:<a href="https://github.com/Shtaiwee1?tab=stars">Starred Projects</a>
+- 🔭 Check out some of my favourite projects here:<a href="https://github.com/Shtaiwee1?tab=stars">Starred Projects</a>
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about MERN frameworks
