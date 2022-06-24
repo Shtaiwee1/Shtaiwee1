@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about MERN frameworks
-- ⚡ Fun fact: I love to sing and play the guitar
+- ⚡ Hobbies: Cybersecurity
 - 💻 Finished an intensive coding dojo bootcamp
 
 
