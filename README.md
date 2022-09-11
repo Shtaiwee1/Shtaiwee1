@@ -15,6 +15,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about MERN frameworks
 - 💻 Finished an intensive coding dojo bootcamp
+- Top 1% on TryHackMe platform
 
 
 <br>
